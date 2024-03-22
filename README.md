@@ -1,5 +1,20 @@
-### Hi there 👋
+### Welcome 👋
 
+Hi, i'm Renato. Here you'll find some of the project i'm working, and some that i already finished.
+
+I have written code in: 
+
+**C/C++**
+
+**Python**
+
+**Java**
+
+**Queries SQL**
+
+**Bash Scripts**
+
+**And more...**
 <!--
 **renatoalvesjr/renatoalvesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
