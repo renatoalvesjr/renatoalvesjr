@@ -1,3 +1,5 @@
+<body style="background-image: linear-gradient(black, rgba(19,1,56,0))">
+
 ### Welcome 👋
 
 Hi, i'm Renato. Here you'll find some of the project i'm working, and some that i already finished.
@@ -29,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
