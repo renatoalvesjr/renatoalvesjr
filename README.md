@@ -1,4 +1,4 @@
-<body style="background-image: linear-gradient(black, rgba(19,1,56,0))">
+<body style="background-image: linear-gradient(black, rgba(19,1,56,0));">
 
 ### Welcome 👋
 
