@@ -6,29 +6,14 @@ Hi, i'm Renato. Here you'll find some of the project i'm working, and some that 
           
 I have written code in: 
 
-**C/C++**
+**C/C++** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30px"/>
+          
+**Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30px"/>
 
-**Python** <i class="devicon-python-plain"></i>
+**Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30px"/>
 
+**Queries SQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30px"/>
 
-**Java**
-
-**Queries SQL**
-
-**Bash Scripts**
+**Bash Scripts** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30px"/>
 
 **And more...**
-<!--
-**renatoalvesjr/renatoalvesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
