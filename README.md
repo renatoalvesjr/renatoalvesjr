@@ -1,10 +1,10 @@
 ### Welcome 👋
 
-Hi, i'm Renato. Here you'll find some of the project i'm working, and some that i already finished.
+Hi, i'm Renato. Here you'll find some of the projects i'm working on, and some that i have already finished.
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-I have written code in: 
+I have projects developed in: 
 
 **Angular** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30px"/>
 
