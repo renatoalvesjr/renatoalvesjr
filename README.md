@@ -16,4 +16,6 @@ I have projects developed in:
 
 **C/C++** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30px"/>
 
+**Rust** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="30px">
+
 **And more...**
